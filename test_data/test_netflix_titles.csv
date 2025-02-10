@@ -1,0 +1,7 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Great Hack,Karim Amer,Jehane Noujaim,United States,July 24, 2020,TV-MA,113 min,Documentaries,A documentary about data exploitation.
+s2,TV Show,The Umbrella Academy,,Ellen Page,United States,July 31, 2020,TV-14,2 Seasons,Action & Adventure,A superhero series.
+s3,Movie,Unknown Director,,,,"Unknown",,G,102 min,Comedies,A comedy movie.
+s4,Movie,Invalid Country Movie,Some Director,Some Cast,Invalid Country,Jan 1, 2023,PG-13,95 min,Dramas,A movie with an invalid country.
+s5,TV Show,Another Show,Another Director,Another Cast,,"Dec 10, 2022",TV-PG,1 Season,Comedy,Another TV show.
+s6,Movie,Movie with multiple countries,Director 1,Cast 1,"USA, Canada",Dec 10, 2022,2023,PG,120 min,Action,A movie with multiple countries
